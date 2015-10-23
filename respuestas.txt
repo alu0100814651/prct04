@@ -1,3 +1,5 @@
 RVM es una plataforma diseñada para manejar multiples versiones de Ruby en el mismo Dispositivo
 
 No hay ninguna diferencia
+
+No me funciona el "pry" cuando lo instalo o cuando lo ejecuto
